@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">Computational chemistry PhD student</h3>
 
-- 🔭 I’m currently working on **Δ-learning models of the many-body expansion**
+- 🔭 I’m currently working on **fragment-based Δ-learning models**
 
 - 👯 I’m looking to collaborate on **simulations of biomolecules and advanced energy materials**
 
