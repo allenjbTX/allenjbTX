@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **fragment-based Δ-learning models**
 
-- 👯 I’m looking to collaborate on **simulations of biomolecules and advanced energy materials**
+- 👯 I’m looking to collaborate on **simulations of biomolecules and advanced materials for energy storage/conversion**
 
 - 💬 Ask me about **rare-earth elements**
 
